@@ -27,5 +27,4 @@ export default defineConfig({
             "@": "/src",
         },
     },
-    allowedHosts: ['eliza'],
 });
